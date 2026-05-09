@@ -10,3 +10,4 @@ numpy
 pdfplumber
 fpdf
 pydub
+ffprobe
