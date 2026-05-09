@@ -1,0 +1,7 @@
+streamlit
+audio-recorder-streamlit
+deep-translator
+gTTS
+SpeechRecognition
+Pillow
+pytesseract
